@@ -1,2 +1,2 @@
 # AIApplication
-FaceRecognition
+Face recognition that uses OpenCV and matplotlib
